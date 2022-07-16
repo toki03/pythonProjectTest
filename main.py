@@ -1,6 +1,6 @@
-def aaa():
-    print('hello world!')
+def aaa(words):
+    print(f'hello {words}')
 
 
 if __name__ == '__main__':
-    aaa()
+    aaa('toki')
