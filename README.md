@@ -1,3 +1,4 @@
 # pythonProjectTest
 测试使用
-测试git的使用方法以及一些python的编写
+
+1.request_beautifulsoup.py，简单的使用request和beautifulsoup进行一些操作
